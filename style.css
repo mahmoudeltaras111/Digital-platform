@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+                
+}
+table{
+    width: 80%;
+    border: 1 px solid #ccc;
+    border-spacing: 0px ;
+}
+table td{
+    padding: 15px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
